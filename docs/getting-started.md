@@ -17,15 +17,15 @@ On the left is the navigation for the admin panel.
 
 Resources refer to each type of content you can manage within the admin panel.
 
-- [Articles](/articles 'Articles Resource')
-- [Content Themes](/content-themes 'Content Theme Resource')
-- [Events](/events 'Events Resource')
-- [People](/people 'People Resource')
-- [Person Types](/person-types 'Person Type Resource')
-- [Tags](/tags 'Tags Resource')
-- [Users](/users 'Users Resource')
-- [Videos](/videos 'Videos Resource')
-- [Webinars](/webinars 'Webinars Resource')
+- [Articles](articles.md 'Articles Resource')
+- [Content Themes](content-themes.md 'Content Theme Resource')
+- [Events](events.md 'Events Resource')
+- [People](people.md 'People Resource')
+- [Person Types](person-types.md 'Person Type Resource')
+- [Tags](tags.md 'Tags Resource')
+- [Users](users.md 'Users Resource')
+- [Videos](videos.md 'Videos Resource')
+- [Webinars](webinars.md 'Webinars Resource')
 
 ### Command Runner
 
