@@ -3,6 +3,12 @@ title: People
 sidebar_label: People
 ---
 
+:::important
+
+People are used to display staff (e.g presenters, specialists) onto the site, they are not users.
+
+:::
+
 If you want to attach a person to a certain webinar or event as its presentor you will first have to create the person. This is also where you will add bandaging angels and other staff to display on the site.
 
 ### Creating People
