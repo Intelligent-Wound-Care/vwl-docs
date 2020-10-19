@@ -19,9 +19,9 @@ If the video you require is not available in the drop down please see [Fetching 
 
 :::
 
-### Adding Relations
+### Attaching Relations
 
-Once a webinar is created or when editing a webinar you can attach additional information.
+Once a webinar is created or when **Viewing** a webinar you can attach additional information.
 
 #### Tags
 

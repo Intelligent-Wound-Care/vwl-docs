@@ -30,3 +30,11 @@ Optional information includes :
 Here is an example of a person card displaying the image, name, qualifications and location/vet group:
 
 ![img](../static/img/person.png)
+
+### Attaching Relations
+
+Once a Person is created or when **Viewing** a Person you can attach additional information.
+
+#### Person Type
+
+This is where you can assign a type to a person, currently there are types for each bandaging angel and specialist sector. Attaching the relevant type to a person will make them appear on relevant pages.

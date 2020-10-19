@@ -27,6 +27,14 @@ Resources refer to each type of content you can manage within the admin panel.
 - [Videos](videos.md 'Videos Resource')
 - [Webinars](webinars.md 'Webinars Resource')
 
+Depending on your account privileges these are the icons you will see on each resource item
+
+![img](../static/img/function-icons.png)
+
+- View: Shows you the item and allows you to attach other items. (e.g attach a presentor to a webinar)
+- Edit: Allows you to change the data of and item
+- Delete: Removes the item (items are recoverable by the administrator)
+
 ### Command Runner
 
 ![img](../static/img/command-runner.png)
@@ -36,3 +44,9 @@ The Command Runner is where you can run certain commands related to the site. Cu
 #### Fetch Videos
 
 The fetch videos command is used whenever new videos in **JW Player** need to be fetched, the command will populate the [videos resource](/videos 'Videos Resource') with all videos uploaded in **JW Player**.
+
+### Administrator Contact
+
+If you need assistance with anything or require a feature added please contact the administrator, contact details below.
+
+**Email** - milo@intelligentwoundcare.com
