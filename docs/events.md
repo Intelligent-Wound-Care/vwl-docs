@@ -13,8 +13,8 @@ An Event requires :
 - **Title**
 - **Topics** (Optional)
 - **Location** (Optional)
-- **Overview** ([see here for info on Trix Fields](trix 'Trix Field'))
-- **Agenda** ([see here for info on Trix Fields](trix 'Trix Field'))
+- **Overview** ([see here for info on TinyMCE Fields](tinymce 'TinyMCE Field'))
+- **Agenda** ([see here for info on TinyMCE Fields](tinymce 'TinyMCE Field'))
 - **Image**
 - **Booking Url**
 - **Start Date & End Date**

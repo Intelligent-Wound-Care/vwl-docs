@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/vwl-docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'MHalseyPerry', // Usually your GitHub org/user name.
+  organizationName: 'VWL', // Usually your GitHub org/user name.
   projectName: 'vwl-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -13,10 +13,11 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
+        href: '/vwl-docs/getting-started',
       },
       items: [
         {
-          to: '/',
+          to: '/vwl-docs/getting-started',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -31,7 +32,7 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: '/',
+              to: '/vwl-docs/getting-started',
             },
           ],
         },
