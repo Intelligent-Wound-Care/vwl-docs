@@ -13,11 +13,11 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
-        href: '/vwl-docs/getting-started',
+        href: '/vwl-docs/',
       },
       items: [
         {
-          to: '/vwl-docs/getting-started',
+          to: '/vwl-docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
