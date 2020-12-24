@@ -32,7 +32,7 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: '/vwl-docs/getting-started',
+              to: '/vwl-docs/',
             },
           ],
         },
