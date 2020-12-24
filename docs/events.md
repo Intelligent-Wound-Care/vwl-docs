@@ -9,7 +9,7 @@ To create a Event press the **Create Event** button located on the Event Resourc
 
 An Event requires :
 
-- **Event Type**: Course or Conference? ([contact the administrator](/contact, 'admin contact') if you need additional types added)
+- **Event Type**: Course or Conference? ([contact the administrator](contact.md 'admin contact') if you need additional types added)
 - **Title**
 - **Topics** (Optional)
 - **Location** (Optional)

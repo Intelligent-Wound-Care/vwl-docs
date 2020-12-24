@@ -15,7 +15,7 @@ A webinar requires :
 
 :::important
 
-If the video you require is not available in the drop down please see [Fetching videos](/getting-started#command-runner 'fetching videos')
+If the video you require is not available in the drop down please see [Fetching videos](/#command-runner 'fetching videos')
 
 :::
 

@@ -5,7 +5,7 @@ sidebar_label: Users
 
 :::important
 
-If you require any changes or additions to users please [contact the administrator](/contact, 'admin contact')
+If you require any changes or additions to users please [contact the administrator](contact.md 'admin contact')
 
 :::
 

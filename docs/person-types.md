@@ -5,7 +5,7 @@ sidebar_label: Person Types
 
 ### Creating Person Types
 
-Basic Editor privileges do not allow you to create person types, please [contact the administrator](/contact, 'admin contact') if you need a person type added.
+Basic Editor privileges do not allow you to create person types, please [contact the administrator](contact.md 'admin contact')if you need a person type added.
 
 ### Editing Person Types
 
