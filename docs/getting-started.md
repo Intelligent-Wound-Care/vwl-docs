@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 sidebar_label: Getting started
+slug: /
 ---
 
 This documentation will explain everything you need to know to manage and add content to **The Vet Wound Library** site using the **Laravel Nova** admin panel.

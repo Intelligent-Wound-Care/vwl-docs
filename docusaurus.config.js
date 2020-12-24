@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/vwl-docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'VWL', // Usually your GitHub org/user name.
+  organizationName: 'MHalseyPerry', // Usually your GitHub org/user name.
   projectName: 'vwl-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -42,7 +42,7 @@ module.exports = {
           items: [
             {
               label: 'Email',
-              href: 'milo@intelligentwoundcare.com',
+              href: '/vwl-docs/contact',
             },
           ],
         },
