@@ -1,11 +1,11 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://mhalseyperry.github.io',
+  url: 'https://intelligentwoundcare.github.io',
   baseUrl: '/vwl-docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'MHalseyPerry', // Usually your GitHub org/user name.
+  organizationName: 'IntelligentWoundCare', // Usually your GitHub org/user name.
   projectName: 'vwl-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
